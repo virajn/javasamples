@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="G:/jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/project/viraj/GITPROJECT/Election2017/pdfbox-app-2.0.2.jar" sourcepath="E:/project/viraj/GITPROJECT/Election2017/pdfbox-2.0.2-src"/>
+	<classpathentry kind="lib" path="E:/project/viraj/GITPROJECT/Election2017/itextpdf-5.1.0.jar/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/project/viraj/GITPROJECT/Election2017/commons-lang3-3.4-bin/commons-lang3-3.4/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/project/viraj/GITPROJECT/Election2017/commons-lang3-3.4-bin/commons-lang3-3.4/commons-lang3-3.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/project/viraj/GITPROJECT/Election2017/tesseract-3.04.01-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/project/viraj/GITPROJECT/Election2017/leptonica-1.73-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/VIRAJ/Downloads/jar_files/javacpp-1.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
